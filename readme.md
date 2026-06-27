@@ -1,6 +1,6 @@
 
 
-# **University Student Portal – Backend API (Under Process)**
+# **University Student Portal – Backend API **
 
 Welcome to the backend API repository for the **University Student Management Portal** project.
 This project is a **RESTful API built with Spring Boot**, designed to manage **student records** and **course enrollments**.
